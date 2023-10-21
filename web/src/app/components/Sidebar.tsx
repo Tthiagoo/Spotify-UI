@@ -13,7 +13,7 @@ export function Sidebar() {
           className="flex items-center gap-2 text-sm font-semibold text-zinc-100"
         >
           <HomeIcon />
-          Homeee
+          Homee
         </a>
         <a
           href=""
